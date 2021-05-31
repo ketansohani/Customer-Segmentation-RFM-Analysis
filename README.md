@@ -103,8 +103,8 @@ Similarly, 20% customers contribute to 80% of your total revenue. Let's verify t
 
 ![](ImagesforReadme/6.JPG)
 
-####Top 20% customers = 773.  
-####The monetary values over the customer with rank <=773 is 976683.3499999999
+#### Top 20% customers = 773.  
+#### The monetary values over the customer with rank <=773 is 976683.3499999999
 
 In our case, the 80% of total revenue is not achieved by the 20% of TOP customers but approximately, it does, because they are less than our 20% TOP customers who achieve it. It would be interesting to study this group of customers because they are those who make our most revenue.
 
